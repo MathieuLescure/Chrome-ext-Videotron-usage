@@ -1,0 +1,24 @@
+html {
+  font-family: sans-serif;
+}
+
+#mainContainer {
+  margin: 20px auto;
+  width: 500px;
+  border: 2px solid #EEE;
+  border-radius: 5px;
+  padding: 10px;
+
+  header {
+    margin-bottom: 10px;
+    
+    h1 {
+      margin: 0;
+      background-image: url(../images/icon-48.png);
+      background-repeat: no-repeat;
+      padding-left: 55px;
+      line-height: 48px;
+    }
+  }
+
+}
